@@ -1,4 +1,4 @@
-package Exercicio1
+package Exercicios
 
 fun main() {
     val entrada: Float = readLine()!!.toFloat()
